@@ -31,7 +31,7 @@
  # ***Introduccion***
 En este proyecto se hablara sobre el software de control de versiones y host de internet github, explicando la funcion y flujo de trabajo de cada uno,  distribuyendo los contenids en un indice de anera organizada, con codigos de ejemplo, imagenes relacionadas y la bibliografia con los links correspondientes a cada pagina utilizada para utilizar su informacion
 <br><br>
-# ***Temas Desarrollados*** <br>
+# ***Temas Desarrollados***
 ## **Que es git?**
 Es un software de control de versiones diseñado por Linus Torvalds, pensando en la eficiencia, la confiabilidad y compatibilidad del mantenimiento de versiones de aplicaciones cuando éstas tienen un gran número de archivos de código fuente. Su propósito es llevar registro de los cambios en archivos de computadora incluyendo coordinar el trabajo que varias personas realizan sobre archivos compartidos en un repositorio de código<br>
 
