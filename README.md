@@ -142,3 +142,26 @@ Luego de que hicimos un git commit, si estamos trabajando remotamente, este coma
     git pull origin NombreDeBranch<br>
 
 Hace una actualización en nuestro branch local, desde un branch remoto que indicamos en el comando.<br>
+<br>
+# Conclusión
+
+En conclusión github y git, son sistemas de control de versiones, que se pueden utilizar con diversos proyectos alojados en diferentes programas.Github ayuda bastante a trabajar en grupo ya que con este se puede compartir un proyecto para trabajar a la vez el mismo. Tambien se hablo de diversos codigos y flujos de trabajo utilizados en este, uno de los más utilizados el github flow, ademas de que fue el utilizado para este trabajo grupal.<br> 
+<br>
+<br>
+
+# Bibliografía
+
+### Comandos en git 
+
+[https://gist.github.com/dasdo/9ff71c5c0efa037441b6](https://gist.github.com/dasdo/9ff71c5c0efa037441b6)<br>
+
+[http://www.7sabores.com/blog/git-comandos-basicos](http://www.7sabores.com/blog/git-comandos-basicos)<br>
+
+[https://www.pragma.com.co/academia/lecciones/flujos-de-trabajo-en-git#:~:text=Flujo%20Github,a%20la%20rama%20protegida%20Master](https://www.pragma.com.co/academia/lecciones/flujos-de-trabajo-en-git#:~:text=Flujo%20Github,a%20la%20rama%20protegida%20Master)<br>
+
+### Github
+
+[https://en.wikipedia.org/wiki/GitHub](https://en.wikipedia.org/wiki/GitHub)<br>
+
+### Git
+[https://es.wikipedia.org/wiki/Git](https://es.wikipedia.org/wiki/Git)<br>
